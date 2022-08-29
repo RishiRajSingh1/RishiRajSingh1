@@ -9,7 +9,7 @@ I'm a full stack developer...
 A passionate developer from India , traversing upon different frontend technologies , libraries and framework to enhance my skill to best.
 ## 🛠 Skills
 Javascript, HTML, CSS...
-- 👷🏻 Technophile to work using Reactjs , javascript and other Cool Front-end libraries and frameworks.
+- 👷🏻 Technophile to work using HTML, CSS , Reactjs , javascript and other Cool Front-end libraries and frameworks.
 
 - 👷🏻‍♀️ Projects , Do check them out 🙋.
 
